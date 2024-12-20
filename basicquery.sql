@@ -24,7 +24,7 @@ INSERT INTO employees (employee_name, department_id) VALUES
 ( 'Jane Smith', 2),
 ( 'Michael Johnson', 1),
 ( 'Emily Davis', 3),
-( 'Chris Wilson', 2),
+( 'Chris Wilson', 3),
 ('Steve Smith', 4);
 
 select * from employees
